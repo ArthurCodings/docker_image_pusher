@@ -15,3 +15,4 @@ mysql:8.0.33
 redis:7.2-alpine
 nacos/nacos-server:v2.2.3
 nginx:alpine
+amazoncorretto:17-alpine3.19
