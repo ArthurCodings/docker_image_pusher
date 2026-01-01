@@ -16,3 +16,4 @@ redis:7.2-alpine
 nacos/nacos-server:v2.2.3
 nginx:alpine
 amazoncorretto:17-alpine3.19
+nacos/nacos-server:v2.1.0
