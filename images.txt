@@ -9,3 +9,9 @@ mysql:8.0
 redis:7-alpine
 nacos/nacos-server:v2.3.0
 nginx:1.25-alpine
+
+#云服务器
+mysql:8.0.33
+redis:7.2-alpine
+nacos/nacos-server:v2.2.3
+nginx:alpine
