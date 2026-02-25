@@ -17,3 +17,6 @@ nacos/nacos-server:v2.2.3
 nginx:alpine
 amazoncorretto:17-alpine3.19
 nacos/nacos-server:v2.1.0
+
+# 实习OA系统
+amazoncorretto:17
