@@ -20,3 +20,6 @@ nacos/nacos-server:v2.1.0
 
 # 实习OA系统
 amazoncorretto:17
+
+#四千周
+--platform=linux/amd64 eclipse-temurin:17.0.20.1_1-jre-jammy
